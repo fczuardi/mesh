@@ -1,0 +1,4 @@
+.venv/
+meshtastic-web/
+__pycache__/
+*.pyc
