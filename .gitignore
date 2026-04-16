@@ -1,4 +1,5 @@
 .venv/
 meshtastic-web/
+meshtastic-metrics-exporter/
 __pycache__/
 *.pyc

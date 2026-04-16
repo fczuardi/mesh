@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "meshtastic>=2.7.8",
+    "rns>=1.1.5",
 ]
