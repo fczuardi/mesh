@@ -4,3 +4,4 @@ meshtastic-metrics-exporter/
 meshchat/
 __pycache__/
 *.pyc
+/meshtastic.cer
